@@ -1,0 +1,18 @@
+{
+  "name": "vdom-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wzrd index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "main-loop": "^3.4.0",
+    "virtual-dom": "^2.1.1"
+  },
+  "devDependencies": {
+    "wzrd": "^1.5.0"
+  }
+}
